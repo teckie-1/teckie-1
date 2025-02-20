@@ -5,7 +5,7 @@
 - <b></b> [Created a Cyber Security home lab](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
   
 - <b></b> Transformed an old pc into a home server.
-<h2>📺 Project Links </h2>
+<h2>📺 General I.T. Projects</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
