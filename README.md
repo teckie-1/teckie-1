@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b></b> [Created a Cyber Security Homelab](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
+- <b></b> [Cyber Security Homelab](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
   
-- <b></b> [Created a Cyber Security Home Server]
+- <b></b> [Cyber Security Home Server]
 
 <h2>📺 General I.T. Projects</h2>
 
