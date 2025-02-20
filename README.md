@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b></b> Created a Cyber Security home lab.
+- <b></b> [Created a Cyber Security home lab.] (https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
   
 - <b></b> Transformed an old pc into a home server.
 <h2>📺 Project Links </h2>
