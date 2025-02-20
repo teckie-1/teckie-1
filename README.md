@@ -4,10 +4,11 @@
 
 - <b></b> [Created a Cyber Security Homelab](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
   
-- <b></b> Transformed an old pc into a home server
+- <b></b> [Created a Cyber Security Home Server]
 
 <h2>📺 General I.T. Projects</h2>
 
+- <b></b> Created a home server from an old PC
 
 <h2> 🤳 Connect with me:</h2>
 
