@@ -8,7 +8,7 @@
     - <b></b> [Images](https://github.com/teckie-1/Images)
 
 
-<h2>📺 General I.T. Projects</h2>
+<h2>📺 I.T. Projects</h2>
 
 - <b></b> Created a home server from an old PC
 
