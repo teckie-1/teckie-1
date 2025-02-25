@@ -10,7 +10,7 @@
 
 <h2>📺 I.T. Projects</h2>
 
-- <b></b> Created a home server from an old PC
+- <b></b>  My IT & Cybersecurity Learning Journey
 
 <h2> 🤳 Connect with me:</h2>
 
