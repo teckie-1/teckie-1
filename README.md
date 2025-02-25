@@ -4,7 +4,7 @@
 
 - <b></b> [Cyber Security Homelab](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
   
-- <b></b> [Cyber Security Home Server]
+- <b></b> [Cyber Security Homelab update]
 
 <h2>📺 General I.T. Projects</h2>
 
