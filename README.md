@@ -7,8 +7,8 @@
 - <b></b> [Updated Cyber Security Homelab](https://github.com/teckie-1/Updated-Cyber-Security-Homelab/blob/main/README.md)
     - <b></b> [Images](https://github.com/teckie-1/Images)
 
-- <b></b> [Lastest-cyberlab-Setup](https://github.com/teckie-1/latest-cyberlab-setup)
-    - <b></b> [Setup-Images]()
+- <b></b> [Lastest-cyberlab-Setup and Images](https://github.com/teckie-1/latest-cyberlab-setup)
+
 <h2>📺 I.T. Projects</h2>
 
 - <b></b>  [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md),
