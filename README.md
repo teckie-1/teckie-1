@@ -8,10 +8,10 @@
     - <b></b> [Images](https://github.com/teckie-1/Images)
 
 - <b></b> [Lastest-cyberlab-Setup](https://github.com/teckie-1/latest-cyberlab-setup)
-    - <b></b> [Setup-Images](https://github.com/teckie-1/latest-cyberlab-setup/blob/main/cyberlab_network.png)
+    - <b></b> [Setup-Images]()
 <h2>📺 I.T. Projects</h2>
 
-- <b></b>  [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md)
+- <b></b>  [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md),
 
   - <b></b> 
     
