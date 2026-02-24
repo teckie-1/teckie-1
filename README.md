@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b></b> [My Homelab](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
+- <b></b> [Proxmox Cyberlab Architecture](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
 
 <h2>📺 Build. Break. Learn. Repeat.</h2>
 
