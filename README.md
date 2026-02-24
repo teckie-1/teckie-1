@@ -4,8 +4,6 @@
 
 - <b></b> [My Homelab](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
 
-- <b></b> [Lastest-cyberlab-Setup and Images](https://github.com/teckie-1/latest-cyberlab-setup)
-
 <h2>📺 I.T. Projects</h2>
 
 - <b></b>  [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md),
