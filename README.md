@@ -15,7 +15,8 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/michael-mcknight-964274303/
+[linkedin]: https://www.linkedin.com/in/michael-mcknight-964274303/,
+[instagram]: https://www.instagram.com/teckie.prime/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
