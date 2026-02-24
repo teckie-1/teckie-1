@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b></b> [My Homelab](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
-    - <b></b> [Images](https://github.com/teckie-1/Images)
 
 - <b></b> [Lastest-cyberlab-Setup and Images](https://github.com/teckie-1/latest-cyberlab-setup)
 
