@@ -6,9 +6,7 @@
 
 <h2>📺 I.T. Projects</h2>
 
-- <b></b>  [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md),
-
-  - <b></b> 
+- <b></b>  [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md)
     
 <h2> 🤳 Connect with me:</h2>
 
