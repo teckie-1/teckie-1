@@ -4,7 +4,7 @@
 
 - <b></b> [My Homelab](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
 
-<h2>📺 I.T. Projects</h2>
+<h2>📺 Build. Break. Learn. Repeat.</h2>
 
 - <b></b>  [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md)
     
