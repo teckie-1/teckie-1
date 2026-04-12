@@ -1,19 +1,19 @@
 # Hi, I’m Michael 👋
 
 ```text
-┌─────────────────────────────────────────────┐
-│ ROLE    : Cybersecurity Student (WGU)       │
-│ LAB     : Proxmox + VLANs + OPNsense (WIP)  │
-│ HOST    : abyss                             │
-│ DESKTOP : Arch Linux + SwayFX               │
-│ EDITOR  : Neovim                            │
-│ FOCUS   : Homelab • Blue Team • Linux       │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│ ROLE    : Cybersecurity Student (WGU)                    │
+│ LAB     : Proxmox + VLANs + OPNsense (WIP)               │
+│ HOST    : abyss                                          │
+│ DESKTOP : Arch Linux + SwayFX                            │
+│ EDITOR  : Neovim                                         │
+│ FOCUS   : Security • Infrastructure • Linux • Automation │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ## 🔐 Current Focus
 - Building a **Proxmox-based cyber lab**
-- **Migrating edge routing from Omada → OPNsense**
+- Migrating edge routing from **Omada → OPNsense**
 - Designing VLAN segmentation for:
   - homelab services
   - cyber lab isolation
@@ -30,9 +30,8 @@
 ## 🧠 Philosophy
 > Build it. Break it. Document it. Automate it.
 
-- <b></b>  [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md)
-    
-<h2> 🤳 Connect with me:</h2>
+## 📘 Learning Journey
+- [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-mcknight-964274303/)
