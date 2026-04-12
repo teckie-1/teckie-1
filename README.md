@@ -1,10 +1,34 @@
-<h1>Hi, I'm Michael ! </h1>
+# Hi, I’m Michael 👋
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+```text
+┌─────────────────────────────────────────────┐
+│ ROLE    : Cybersecurity Student (WGU)       │
+│ LAB     : Proxmox + VLANs + OPNsense (WIP)  │
+│ HOST    : abyss                             │
+│ DESKTOP : Arch Linux + SwayFX               │
+│ EDITOR  : Neovim                            │
+│ FOCUS   : Homelab • Blue Team • Linux       │
+└─────────────────────────────────────────────┘
+```
 
-- <b></b> [Proxmox Cyberlab Architecture](https://github.com/teckie-1/CyberSecurityHomeLab/tree/main)
+## 🔐 Current Focus
+- Building a **Proxmox-based cyber lab**
+- **Migrating edge routing from Omada → OPNsense**
+- Designing VLAN segmentation for:
+  - homelab services
+  - cyber lab isolation
+  - future camera systems
+- Running self-hosted services:
+  - Nextcloud
+  - Seafile
+  - SMB
+  - Navidrome
+  - ARR stack
+- Learning **Ansible automation**
+- Improving **internal DNS + reverse proxy architecture**
 
-<h2>📺 Build. Break. Learn. Repeat.</h2>
+## 🧠 Philosophy
+> Build it. Break it. Document it. Automate it.
 
 - <b></b>  [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md)
     
@@ -18,18 +42,3 @@
 [linkedin]: https://www.linkedin.com/in/michael-mcknight-964274303/
 
 [instagram]: https://www.instagram.com/teckie.prime/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
