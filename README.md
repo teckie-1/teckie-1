@@ -34,6 +34,9 @@
 - [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md)
 
 # Homelab Blogs
+Writeups on what I've built, broken, and documented in my homelab.
+
+- [homelab-blog](https://github.com/teckei-1/homelab-blog)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-mcknight-964274303/)
