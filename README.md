@@ -11,7 +11,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-## 🔐 Current Focus
+Current Focus
 - Building a **Proxmox-based cyber lab**
 - Migrating edge routing from **Omada → OPNsense**
 - Designing VLAN segmentation for:
@@ -27,10 +27,10 @@
 - Learning **Ansible automation**
 - Improving **internal DNS + reverse proxy architecture**
 
-## 🧠 Philosophy
+Philosophy
 > Build it. Break it. Document it. Automate it.
 
-## 📘 Learning Journey
+Learning Journey
 - [My IT & Cybersecurity Learning Journey](https://github.com/teckie-1/my-journey/blob/main/README.md)
 
 ## 🌐 Connect with me
