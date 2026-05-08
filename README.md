@@ -5,7 +5,8 @@
 │ ROLE    : Cybersecurity Student (WGU)                    │
 │ LAB     : Proxmox + VLANs + OPNsense (WIP)               │
 │ HOST    : abyss                                          │
-│ DESKTOP : Arch Linux + SwayFX                            │
+│ DESKTOP : Arch Linux + SwayFX                            |
+| Laptop  : EndeavourOs + SwayFX                           │
 │ EDITOR  : Neovim                                         │
 │ FOCUS   : Security • Infrastructure • Linux • Automation │
 └──────────────────────────────────────────────────────────┘
