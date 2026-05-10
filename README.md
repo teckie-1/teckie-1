@@ -14,7 +14,7 @@
 
 ## Current Focus
 
-- Building a **Proxmox-based cyber lab**
+- Running a **Proxmox-based home lab**
 - Fully migrated edge routing from **Omada → OPNsense**
 - Completed VLAN segmentation for:
   - homelab services
