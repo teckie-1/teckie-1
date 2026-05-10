@@ -3,10 +3,10 @@
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │ ROLE    : Cybersecurity Student (WGU)                    │
-│ LAB     : Proxmox + VLANs + OPNsense (WIP)               │
+│ LAB     : Proxmox + VLANs + OPNsense                     │
 │ HOST    : abyss                                          │
-│ DESKTOP : Arch Linux + SwayFX                            |
-| Laptop  : EndeavourOs + SwayFX                           │
+│ DESKTOP : Arch Linux + SwayFX                            │
+│ LAPTOP  : EndeavourOS + SwayFX                           │
 │ EDITOR  : Neovim                                         │
 │ FOCUS   : Security • Infrastructure • Linux • Automation │
 └──────────────────────────────────────────────────────────┘
@@ -16,7 +16,7 @@
 
 - Building a **Proxmox-based cyber lab**
 - Fully migrated edge routing from **Omada → OPNsense**
-- Designing VLAN segmentation for:
+- Completed VLAN segmentation for:
   - homelab services
   - cyber lab isolation
   - future camera systems
@@ -25,7 +25,11 @@
   - Seafile
   - SMB
   - Navidrome
-  - ARR stack
+  - ZNC
+  - Immich
+  - Homebridge
+  - Cloudflared
+
 - Learning **Ansible automation**
 - Improving **internal DNS + reverse proxy architecture**
 
