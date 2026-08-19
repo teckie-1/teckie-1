@@ -27,10 +27,12 @@
   - Navidrome
   - ZNC
   - Immich
-  - Homebridge
   - Cloudflared
+  - Vaultwarden
+  - Forgejo
+  - Invoice Ninja
 
-- Learning **Ansible automation**
+- Learning **Python**
 - Improving **internal DNS + reverse proxy architecture**
 
 ## Philosophy
