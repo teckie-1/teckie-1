@@ -51,4 +51,4 @@ Writeups on what I've built, broken, and documented in my homelab.
 
 ### 🌐 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/teckie.prime/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/teckie.1/)
