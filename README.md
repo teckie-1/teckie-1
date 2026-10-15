@@ -6,7 +6,7 @@
 │ LAB     : Proxmox + VLANs + OPNsense                     │
 │ HOST    : abyss                                          │
 │ DESKTOP : Arch Linux + SwayFX                            │
-│ LAPTOP  : EndeavourOS + SwayFX                           │
+│ LAPTOP  : NixOS + niri + noctalia                          │
 │ EDITOR  : Neovim                                         │
 │ FOCUS   : Security • Infrastructure • Linux • Automation │
 └──────────────────────────────────────────────────────────┘
