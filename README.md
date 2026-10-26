@@ -14,7 +14,7 @@
 
 ## Current Focus
 
-- **Proxmox-based home lab** (Died 3 weeks ago.)
+- **Proxmox-based home lab** (Died recently.)
   - **Currently running a Contabo VPS until server rebuild.**
 - Fully migrated edge routing from **Omada → OPNsense**
 - Completed home networking VLAN segmentation for:
