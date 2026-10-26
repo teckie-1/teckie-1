@@ -5,8 +5,8 @@
 │ ROLE    : Cybersecurity Student (WGU)                    │
 │ LAB     : Proxmox + VLANs + OPNsense                     │
 │ HOST    : abyss                                          │
-│ DESKTOP : Arch Linux + SwayFX                            │
-│ LAPTOP  : NixOS + niri + noctalia                          │
+│ DESKTOP : NixOS + Niri + Noctalia                        │
+│ LAPTOP  : NixOS + Niri + noctalia                        │
 │ EDITOR  : Neovim                                         │
 │ FOCUS   : Security • Infrastructure • Linux • Automation │
 └──────────────────────────────────────────────────────────┘
@@ -14,7 +14,7 @@
 
 ## Current Focus
 
-- Running a **Proxmox-based home lab**
+- Running a **Proxmox-based home lab** (Died 3 weeks ago..)
 - Fully migrated edge routing from **Omada → OPNsense**
 - Completed VLAN segmentation for:
   - homelab services
