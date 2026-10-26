@@ -15,22 +15,23 @@
 ## Current Focus
 
 - Running a **Proxmox-based home lab** (Died 3 weeks ago..)
+  - **Currently running a Contabo VPS until server rebuild**
 - Fully migrated edge routing from **Omada → OPNsense**
 - Completed VLAN segmentation for:
   - homelab services
   - cyber lab isolation
   - future camera systems
 - Running self-hosted services:
-  - Nextcloud
-  - Seafile
-  - SMB
-  - Navidrome
-  - ZNC
-  - Immich
-  - Cloudflared
-  - Vaultwarden
-  - Forgejo
-  - Invoice Ninja
+  - Nextcloud (Removed)
+  - Seafile (Migrated)
+  - SMB (Migrated)
+  - Navidrome (Removed)
+  - ZNC (Not migrated to VPS yet)
+  - Immich (Migrated)
+  - Cloudflared (Migrated)
+  - Vaultwarden (Migrated)
+  - Forgejo (Migrated)
+  - Invoice Ninja (Removed)
 
 - Learning **Python**
 - Improving **internal DNS + reverse proxy architecture**
