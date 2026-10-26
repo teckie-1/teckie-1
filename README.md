@@ -3,10 +3,10 @@
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │ ROLE    : Cybersecurity Student (WGU)                    │
-│ LAB     : Proxmox + VLANs + OPNsense                     │
-│ HOST    : abyss                                          │
+│ LAB     : Abyss (down), Ubuntu server (VPS) + Wireguard  │
+│ HOST    : Contabo                                        │
 │ DESKTOP : NixOS + Niri + Noctalia                        │
-│ LAPTOP  : NixOS + Niri + noctalia                        │
+│ LAPTOP  : NixOS + Niri + Noctalia                        │
 │ EDITOR  : Neovim                                         │
 │ FOCUS   : Security • Infrastructure • Linux • Automation │
 └──────────────────────────────────────────────────────────┘
@@ -14,10 +14,10 @@
 
 ## Current Focus
 
-- Running a **Proxmox-based home lab** (Died 3 weeks ago..)
-  - **Currently running a Contabo VPS until server rebuild**
+- **Proxmox-based home lab** (Died 3 weeks ago.)
+  - **Currently running a Contabo VPS until server rebuild.**
 - Fully migrated edge routing from **Omada → OPNsense**
-- Completed VLAN segmentation for:
+- Completed home networking VLAN segmentation for:
   - homelab services
   - cyber lab isolation
   - future camera systems
